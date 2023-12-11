@@ -5,4 +5,4 @@ New-Item file.txt
 Notepad .\file.txt
 git add *
 git commit -m "New file"
-git 
+git l
