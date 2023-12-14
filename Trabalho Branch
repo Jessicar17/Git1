@@ -1,1 +1,10 @@
-
+git checkout -b MinhaBrach
+git commit -m 
+git push --set-upstream
+$ git branch
+git checkout 
+git branch -d nome-da-branch
+$ git checkout -b minha-nova-branch
+$ git branch
+git checkout
+git branch -D nome-da-branch
